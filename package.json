@@ -38,6 +38,8 @@
   },
   "devDependencies": {
     "eslint": "8.22.0",
-    "eslint-plugin-react": "^7.31.11"
+    "eslint-plugin-react": "^7.31.11",
+    "styled-components": "^5.3.6",
+    "styled-normalize": "^8.0.7"
   }
 }
