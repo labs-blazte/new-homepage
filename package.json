@@ -1,5 +1,6 @@
 {
   "name": "news-homepage",
+  "homepage": "https://github.com/labs-blazte/new-homepage",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,6 +40,7 @@
   "devDependencies": {
     "eslint": "8.22.0",
     "eslint-plugin-react": "^7.31.11",
+    "gh-pages": "^4.0.0",
     "styled-components": "^5.3.6",
     "styled-normalize": "^8.0.7"
   }
